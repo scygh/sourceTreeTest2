@@ -6,7 +6,9 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "tag2";
+
+    private static final String TAG = "tag3";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
